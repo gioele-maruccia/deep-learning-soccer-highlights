@@ -1,3 +1,3 @@
 # Highlights detector
 
-<img src="readme_pics\black-box.png" height="130">
+<img src="readme_pics\black-box.png" height="700">
